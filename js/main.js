@@ -4,28 +4,28 @@ const productos = [
     descripcion: "Kilo de Helado",
     precio: 10000,
     cantidadSabores: 4,
-    imagen: "../img/kilo.png"
+    imagen: "img/kilo.png"
   },
   {
     codigo: 2,
     descripcion: "Tres Cuartos de Helado",
     precio: 9000,
     cantidadSabores: 3,
-    imagen: "../img/tres_cuartos.jpg"
+    imagen: "img/tres_cuartos.jpg"
   },
   {
     codigo: 3,
     descripcion: "Medio Kilo de Helado",
     precio: 6000,
     cantidadSabores: 3,
-    imagen: "../img/medio_kilo.png"
+    imagen: "img/medio_kilo.png"
   },
   {
     codigo: 4,
     descripcion: "Cuarto Kilo de Helado",
     precio: 3200,
     cantidadSabores: 2,
-    imagen: "../img/cuarto_kilo.png"
+    imagen: "img/cuarto_kilo.png"
   }
 ];
 
